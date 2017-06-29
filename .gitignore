@@ -1,0 +1,10 @@
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+*.suo
+.vs
+
+Content/StarterContent
